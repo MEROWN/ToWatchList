@@ -21,5 +21,11 @@
 - [ ] Цельнометаллический алхимик: Братство
 - [ ] Panty & Stocking with Garterbelt
 - [ ] Re:zero
-# Movies
+- [ ] Devil may cry
+- [ ] Эльфийская песнь
+# Animated series
+- [ ] Вакфу
+- [ ] Время преключений
+# Movies / Animated film
 - [ ] Киндзадза
+- [ ] Человек паук новый мульт
